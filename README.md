@@ -1,0 +1,2 @@
+# Spotify clone
+>This is a simple spotify clone of the older version of spotify, This is not fully functional and i am still working on it. It was my first big project/clone project after learning html and css. 
